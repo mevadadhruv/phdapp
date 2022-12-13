@@ -1,5 +1,5 @@
 import React from "react";
-import center from "./photos/center.jpg";
+import center from "../components/photos/center.jpg";
 export function Login() {
   return (
     <div className="center">
