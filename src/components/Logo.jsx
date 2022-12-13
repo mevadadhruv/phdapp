@@ -1,5 +1,5 @@
 import React from 'react'
-import  phd  from "./photo/phd.jpg";
+import  phd  from "./photos/phd.jpg";
 export function Logo() {
   return (
     <div className='logo-bar'>
